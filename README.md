@@ -1,6 +1,6 @@
 ## Fiddler-Everywhere-Crack
-Amateur project, for personal use only, update cycle is irregular
-业余项目，仅用于个人使用，更新周期不定
+#Amateur project, for personal use only, update cycle is irregular
+#业余项目，仅用于个人使用，更新周期不定
 ## Help
 #### English
 
@@ -16,7 +16,7 @@ Amateur project, for personal use only, update cycle is irregular
 
 #### Chinese
 
-1.安装"Fiddler Everywhere 5.4.0.exe"安装完成后取消勾选"运行Fiddler Everywhere"并关闭安装程序
+1.安装"Fiddler Everywhere 5.4.0.exe"安装完成后取消勾选"运行Fiddler Everywhere"并    关闭安装程序
 
 2.运行disableUpdater.ps1来阻断更新程序，Windows11需要在"设置-系统-开发者选项-PowerShell中运行未签名脚本的运行"
 
