@@ -1,7 +1,7 @@
 ## Fiddler-Everywhere-Crack
-#Amateur project, for personal use only, update cycle is irregular
+Amateur project, for personal use only, update cycle is irregular
 
-#业余项目，仅用于个人使用，更新周期不定
+业余项目，仅用于个人使用，更新周期不定
 ## Help
 #### English
 1. Install "Fiddler Everywhere 5.4.0.exe" and uncheck "Run Fiddler Everywhere" after installation and close the installer
