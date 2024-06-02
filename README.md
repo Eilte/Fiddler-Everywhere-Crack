@@ -2,7 +2,14 @@
 Amateur project, for personal use only, update cycle is irregular
 
 业余项目，仅用于个人使用，更新周期不定
+## Photo
+
+![](image/home.png)
+
+![](image/function.png)
+
 ## Help
+
 #### English
 1. Install "Fiddler Everywhere 5.4.0.exe" and uncheck "Run Fiddler Everywhere" after installation and close the installer
 
